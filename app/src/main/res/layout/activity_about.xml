@@ -17,23 +17,25 @@
         android:id="@+id/txtAbout"/>
 
     <TextView
+        android:id="@+id/textViewAbout"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text=" This is my project1 for simple app  This is my project1 for simple app  This is my project1 for simple app  This is my project1 for simple app  This is my project1 for simple app  This is my project1 for simple app  This is my project1 for simple app "
-        android:textSize="25sp"
-        android:textColor="@color/black"
         android:layout_below="@+id/txtAbout"
-        android:padding="15sp"/>
+        android:layout_marginTop="-2dp"
+        android:padding="15sp"
+        android:text="@string/textView_content"
+        android:textColor="@color/black"
+        android:textSize="25sp" />
 
     <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottom_navigator"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/bottom_navigator"
-        app:itemBackground="@color/purple_500"
-        app:itemTextColor="@drawable/selector"
-        app:itemIconTint="@drawable/selector"
-        app:menu="@menu/menu"
         android:layout_alignParentBottom="true"
+        app:itemBackground="@color/purple_500"
+        app:itemIconTint="@drawable/selector"
+        app:itemTextColor="@drawable/selector"
+        app:menu="@menu/menu"
 
         />
 
