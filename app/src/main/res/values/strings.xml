@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Project1</string>
+
+    <string name="textView_content">
+        <center><big>Hello!</big></center>\n
+        <center>I am Andrzej Sokolowski</center>\n
+        <center>R00184058</center>\n
+    This is my First Mobile App\n
+    For PMD Project1</string>
+
 </resources>
