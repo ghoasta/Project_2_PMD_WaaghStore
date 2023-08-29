@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Project1</string>
+
+    <string name="textView_content">
+        <b>About Activity</b> - Activity that explains the content of each screen
+        The text is saved in strings.xml \n
+        You can change the theme of app to Dark Mode using menu.\n
+
+        <b>Home</b> - This is home screen.It has 3 buttons:\n
+        \t1.Navigate to MTU\n
+        \t2.Call MTU\n
+        \t3.Email MTU\n
+
+        <b>RecycleView Activiry</b> - Screen with recycle view with list of restaurants in Cork.\n
+        Images source are urls.
+
+        </string>
+
+    <string name="textView_content2">
+        This is smart application for the smart students.\n
+        It contains list of restaurants around Cork.\n
+        It allows you to navigate to MTU.\n
+        It allows you to contact MTU by phone or email!
+
+    </string>
+
+</resources>

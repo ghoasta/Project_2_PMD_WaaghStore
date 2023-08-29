@@ -1,0 +1,135 @@
+<resources>
+    <string name="app_name">WaaghShop!</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+
+    <string-array name="product_name">
+        <item>Death Company</item>
+        <item>Necron Warriors</item>
+        <item>Seraphim Squad</item>
+        <item>Warhammer 40,000: Paints</item>
+        <item>Intercessors + Paints</item>
+        <item>Plastic Glue</item>
+        <item>Citadel Brush Selection</item>
+        <item>Fine Detail Cutters</item>
+        <item>Flamers of Tzeentch</item>
+        <item>Ultramarines Paint Bundle</item>
+        <item>Combat Patrol Grey Knights</item>
+        <item>Magnus the Red</item>
+        <item>Citadel Skulls</item>
+        <item>Liquid Green Stuff</item>
+        <item>Rubric Marines</item>
+        <item>Morkanaut</item>
+    </string-array>
+
+    <string-array name="product_type">
+        <item>Model</item>
+        <item>Model</item>
+        <item>Model</item>
+        <item>Paints</item>
+        <item>Paints</item>
+        <item>Tool</item>
+        <item>Tool</item>
+        <item>Tool</item>
+        <item>Model</item>
+        <item>Paints</item>
+        <item>Model</item>
+        <item>Model</item>
+        <item>Tool</item>
+        <item>Paints</item>
+        <item>Model</item>
+        <item>Model</item>
+    </string-array>
+
+    <string-array name="product_price">
+        <item>34</item>
+        <item>40</item>
+        <item>45</item>
+        <item>35</item>
+        <item>30</item>
+        <item>7</item>
+        <item>48</item>
+        <item>40</item>
+        <item>27</item>
+        <item>88</item>
+        <item>120</item>
+        <item>125</item>
+        <item>22</item>
+        <item>5</item>
+        <item>45</item>
+        <item>105</item>
+    </string-array>
+
+    <string-array name="product_desc">
+        <item>The warriors of the Death Company, consumed by the madness of the Black Rage, consign themselves to death in battle. It is both a great tragedy, and a great honour, to be one of these offerings upon the altar of war. This 94-piece kit contains five multi-part plastic Blood Angels</item>
+        <item>This kit builds ten Necron Warriors – each with a choice of two heads and the option of either a gauss flayer or gauss reaper.</item>
+        <item>The angelic warriors known as Seraphim fight in the advanced guard of an Adepta Sororitas army. Equipped with San Leor pattern jump packs, they descend from on high and launch themselves at the enemy lines, using shock and awe to shatter formations before their fellow Sisters open fire. Each Seraphim wields a pair of pistols, chosen from amongst the holy trinity of weapons.</item>
+        <item>Building and painting models is a fun and exciting way to engage with the hobby, and it only gets more rewarding with time. You’ll need a few tools and a set of paints to get started, and this box includes the basics that will form the core of your hobby kit.</item>
+        <item>This box is the perfect way to start your collection of Primaris Space Marines. You’ll get three plastic Assault Intercessors with three distinct poses, the paints you need to prepare them for battle and a brush to get you started. These models are push fit, only requiring clippers to assemble – no glue, no mess.</item>
+        <item>Designed specifically for assembling plastic Citadel miniatures, Citadel Plastic Glue comes in a bottle with a handy applicator nozzle, making it as easy as possible to put your models together.</item>
+        <item>We’ve spent countless hours thinking about how to help you achieve the best results possible when painting your miniatures. It’s an important part of the hobby, to some the most important, and this brush range has been carefully designed from the ground up to complement the Citadel Paint System in every way, allowing you to quickly and easily apply basecoats, layers, shades and glazes in a way that will produce results you’ll love showing off.</item>
+        <item>Modern Citadel plastic kits are packed with details, extras, and add-on bits, including some very small pieces. The Citadel Tools design team had these fine details in mind when they redesigned the beloved cutters used by so many Warhammer hobbyists.</item>
+        <item>Bounding in a disturbing fashion, Flamers of Tzeentch spring toward the foe spouting wyrdflame, the warpfire of Chaos itself. The supernatural flames writhe and leer, but most of all they burn, scorching the foe’s flesh, bones and soul. Yet the Changer of Ways is fickle, and fires that have burnt out may leap to life again, or even heal the afflicted. </item>
+        <item>how pride in Ultramar with a Parade Ready paint job worthy of the 500 Worlds.This bundle gives you all the colours you need to get your Ultramarines in tip-top form.</item>
+        <item>Hunt down and eradicate the daemonic enemies of the Imperium with Combat Patrol: Grey Knights! The contents of this set have been specifically chosen to provide you with a Grey Knights force ideal for Combat Patrol-sized games</item>
+        <item>The air screams as Magnus the Red descends from the skies, and stone runs molten beneath his shadow. Cyclopean son of the Emperor of Mankind, his very presence is anathema to logic. To look upon him is to surrender sanity, and when the Crimson King gazes back, destruction is loosed in unimaginable measure.</item>
+        <item>You may have noticed a common theme amongst models and scenery pieces from the Warhammer 40,000 and Warhammer Age of Sigmar ranges – skulls. They’re everywhere, decorating the walls of Khornate keeps and hanging from the belts of fearsome warriors. But we don’t think there are enough skulls out there…</item>
+        <item>Ideal for filling in small gaps on miniatures, Liquid Green Stuff has been designed for hobbyists and enthusiasts who want a smooth, even finish when converting or modifying their models. Water soluble, with a striking label making it stand out from your Citadel paints, Liquid Green Stuff can be easily filed down with a Citadel File once set.</item>
+        <item>Stepping out from the fog of war come the Rubricae. Many of these undying warriors were psykers in their own right, before an ancient curse damned them to an eternity as living husks – their baroque power armour now contains nothing but sparkling dust.</item>
+        <item>Personally built and piloted by an Ork Mekboy, the Morkanaut possesses all the lethal kunnin’ of Mork. Packed with glowy gubbinz from the Mek’s own workshop these mighty engines exist purely to cause carnage.</item>
+    </string-array>
+
+    <string name="home_screen_text">
+        The application uses:\n
+        \1. Recycler View for: \n
+        \t\t - Products List \n
+        \t\t - Basket \n
+        \t\t - Transaction History \n
+        \t\t - Reviews \n
+        \2. Sensors for: \n
+        \t\t- Temperature Sensor in Additional Option Screen \n
+        \3. Navigational Drawer in Additional Option Screen \n
+        \4. Broadcast in: \n
+        \t\t- AirPlane mode receiver in Additional Option Screen \n
+        \5. Menus for:\n
+        \t\t- Navigational Drawer in Additional Option Screen \n
+        \t\t- Bottom Navigational View in all activities\n\n\n
+        The application is connected to MYSQL hosted locally\n
+        Products are stored in arraylist from strings.xml\n
+        The basket is saved to database in table basket\n
+        Once the CHECKOUT button is clicked, basket will be cleared and transaction will be recorded in transaction_history table\n
+        CHECKOUT from basket is connected to PayPal sandbox but this is not fully working\n
+        Application allows to log in using Google Account, but it is not storing any date from it.\n
+        The reviews that clients submits are stored in review table.
+
+    </string>
+
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+
+    <string name="admin_setting_top">
+        In this section you are able to see all Transaction History and all Reviews \n
+        Whenever client press CHECKOUT button, the transaction will be written in History \n
+        When client submits review, you will be able to see it in REVIEWS
+    </string>
+
+    <string name="admin_settings_bottom">
+        You can access additional options here \n
+        The second line has Temperature Sensor that updates on temperature change
+    </string>
+
+    <string name="option_top">
+        This screen demonstrates the Navigational Drawer \n
+        If you press the arrow in the upper lef corner you will have access menu \n
+        From there you can navigate to different screens and log out
+    </string>
+
+    <string name="option_bottom">
+        This screen uses broadcast and receiver for AirPlane mode \n
+        If the AirPlane mode is turned ON/OFF app with show Toast
+    </string>
+
+</resources>

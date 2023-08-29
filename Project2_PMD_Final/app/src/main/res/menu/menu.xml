@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item
+        android:id="@+id/products_page"
+        android:title="Products"
+        android:icon="@drawable/ic_products"
+        />
+
+    <item
+        android:id="@+id/basket_page"
+        android:title="Basket"
+        android:icon="@drawable/ic_shopping_cart"
+        />
+
+    <item
+        android:id="@+id/home_page"
+        android:title="Home"
+        android:icon="@drawable/ic_home"
+        />
+
+    <item
+        android:id="@+id/admin_page"
+        android:title="Admin"
+        android:icon="@drawable/ic_baseline_settings"
+        />
+
+    <item
+        android:id="@+id/support_page"
+        android:title="Support"
+        android:icon="@drawable/ic_support"
+        />
+
+</menu>
